@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amankumar96
-- 👀 I’m interested in Python Development, data scienec and Machine learning
+- 👀 I’m interested in Python Development, data science and Machine learning
 - 🌱 I’m currently learning Pythons language & Machine Learning 
 - 💞️ I’m looking to collaborate on different platforms.
 - 📫 How to reach me amank1996@gmail.com
